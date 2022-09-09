@@ -1,0 +1,7 @@
+{
+  "name": "ejercicioClase",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
